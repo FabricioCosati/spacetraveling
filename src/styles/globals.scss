@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+:root {
+
+  --white-500: #f8f8f8;
+
+  --pink-500: #ff57b2;
+
+  --gray-500: #d7d7d7;
+  --gray-700: #bbbbbb;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  background-color: #1a1d23;
+  color: white;
+}
+
+// TODO
